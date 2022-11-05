@@ -19,3 +19,35 @@ operator Precedence mean: example (4+4*2) (2+2*4)
 x = 10
 '''
 #5. Increase × value by 15 using assignment operators
+'''
+x = 7+8
+'''
+#6. Divide the × value by 5 using assignment operators
+'''
+x = 10/2
+'''
+#7. Multiply the x value by 10 using assignment operator
+'''
+x = 5*2
+'''
+#8. Get module of x on 3 using assignment operators
+'''
+x=2
+y=1
+x+=y
+'''
+#9. Using python print the module of 11 to 4
+'''
+'''
+#10. Print the exponent of 2,3
+'''
+2.3**
+'''
+#11. Divide 11 by 3 using python division
+'''
+11/3
+'''
+#12. Can we divide 11 by 3 and get an integer number ?
+'''
+yes 11//3 
+'''
