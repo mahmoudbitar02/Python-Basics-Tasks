@@ -38,16 +38,19 @@ x+=y
 '''
 #9. Using python print the module of 11 to 4
 '''
+x=11%4
+print (x)
 '''
 #10. Print the exponent of 2,3
 '''
-2.3**
+x=2**3
+print (x)
 '''
 #11. Divide 11 by 3 using python division
 '''
-11/3
+x=11/3
 '''
 #12. Can we divide 11 by 3 and get an integer number ?
 '''
-yes 11//3 
+yes X=11//3 
 '''
