@@ -14,28 +14,29 @@ for i in (x):
     print (i)
 '''
 #3. Stop the loop if the number = 5
-'''
+
 x=[0,1,2,3,4,5,6,7,8,9,10]
 
 for i in (x):
     print (i)
     if i==5 :
         break
-'''
-#4. Skip the 5 iteration from print---------------------
+
+#4. Skip the 5 iteration from print
 '''
 x=[0,1,2,3,4,5,6,7,8,9,10]
-
 for i in (x):
-    print (i)
+    
     if i==5 :
         continue
+    print(i)
 '''
-#5. Print multiplication table from 1 to 5--------------------
+#5. Print multiplication table from 1 to 5
 '''
 for i in range(1,6):
+    print('-----------------------')
     for y in range(1,6):
-        print(i*y)
+        print(f"{i} X {y} = {i*y}")
 '''
 #6. How to get numbers from 10 to 20 using range
 '''
