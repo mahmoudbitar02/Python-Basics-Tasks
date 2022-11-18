@@ -11,17 +11,18 @@ z = 2.15
 s = "Mahmoud" or "10"
 
 #5. Convert the int variable to float
-f = 5/6
+f =5
+y=float(x)
 
 #6. Can we convert the str to int ?
 yes,  int ("12")
 type (int('12'))
 
 #7. Create a list of numbers from 1 to 5
-e = ['1','2','3','4','5']
+e = [1,2,3,4,5]
 
 #8. Create a tuple from 10 to 15
-r = ('10','11','12','13','14','15')
+r = (10,11,12,13,14,15)
 
 #9. Convert the list to tuple 
 '''

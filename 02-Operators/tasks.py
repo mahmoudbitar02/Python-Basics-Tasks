@@ -9,9 +9,10 @@
 '''
 #3. What is the operator precedence
 '''
-operator Precedence mean: example (4+4*2) (2+2*4)
-() we must arithmetic the each () than we should multiplication the two () ()
-(12)(10) = 120 
+()
+**
+/*
++-
 
 '''
 #4. Create a variable × with value of 10
@@ -20,7 +21,8 @@ x = 10
 '''
 #5. Increase × value by 15 using assignment operators
 '''
-x = 7+8
+x +=15
+
 '''
 #6. Divide the × value by 5 using assignment operators
 '''

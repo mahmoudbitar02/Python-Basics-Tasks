@@ -1,21 +1,23 @@
 #1. Create a simple function that takes 2 numbers and print their values
-'''
-def mah ():
-    x = 5
-    y = 10
+
+def mah (x,y):
+   
     print (x+y)
-'''
+
+mah(1,2)
+
+ 
 #2. Create a simple function that takes 2 numbers and return their values
-'''
+
 def mah ():
     x = 5
     y = 10
     return (x+y)
-'''
+
 #3. In the above return function, use keyword arguments when calling the function
-'''
+
 mah ()
-'''
+
 #4. In the above return function, give x and y default values of 0 and call the function with no arguments
 '''
 def mah (x=0, y=0):
@@ -29,7 +31,7 @@ print (l)
 def mah (x,y):
     result = x+y
     return(result)
-l= mah (4,4)
+l=mah(4,4)
 print(l)
 '''
 #6.Create the same sum function using the lambda

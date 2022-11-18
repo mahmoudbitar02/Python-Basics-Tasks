@@ -50,7 +50,9 @@ or: we dont nead a list but we should write all values (example
 '''
 
 #6.If we need all the conditions to be true we will use
-
+'''
+all
+'''
 #7.What is the differences between if, elif
 '''
 we can use (if) one time but we can use (elif) as we wich.
@@ -61,7 +63,7 @@ we can use (elif) alot, as we wich but else one time
 '''
 #9. Can we use more than one elif
 '''
-yes
+no
 '''
 #10. Can we use more than one else
 '''
@@ -79,9 +81,9 @@ no, if the (elif) inside a (if) it will check it first when the first (if) ably 
 '''
 
 #13 in elif we use else for?
-
-
-
+'''
+default option if no condition is true
+'''
 #14. if we have this list [2.4.6.8.10] :
 
     #1.check to see if 4 in this list or not
