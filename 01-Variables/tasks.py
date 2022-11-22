@@ -48,3 +48,5 @@ python is interpreted
 #13. What is the differences between low level & high level
 
 Machine can understand tht low level esily in comparison of human. On ather hand humen or Programmers understand the high level easily in comparison of Machine
+
+
