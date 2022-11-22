@@ -34,3 +34,25 @@ look to question number 5 and 6
 lis=[10,11,12,13,14,15,16,17,18,19,20]
 lis[1] = '100'
 print(lis)
+
+#9. Create a tuple with values from 1 to 5
+mah = (1,2,3,4,5)
+
+#10. Can we add 10 to the end of the tuple?
+'''
+no we cannot add value to a tuple
+'''
+
+#11. Create a dict of value Mahmoud:28, ahmed:30
+
+x = {'mahmoud':28, 'ahmed':30}
+
+#12. Print Mahmoud age from the dict
+x = {'mahmoud':28, 'ahmed':30}
+print(x['mahmoud'])
+
+#13. What is the differences between mutable and immutable data types?
+'''
+immutable: we cannot add, remove or replace etc. the Values (Tuple is a immutable)
+mutable: we can add, remove or replace etc. the Values (list ist a mutable)
+'''
