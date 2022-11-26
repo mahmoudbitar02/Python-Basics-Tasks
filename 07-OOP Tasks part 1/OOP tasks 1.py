@@ -73,4 +73,10 @@ when we call the self we define it
 it help us to write clean Object-Oriented Code
 '''
 
+#12. Why we use OOP in our code
+'''
+better quality of software and lesser maintenance cost
+our code will run faster than other if we don't use it
+'''
+
 
