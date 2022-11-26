@@ -46,9 +46,9 @@ class calculator:
     
 s=calculator()
 
-
-#7. Call the sum method with 10 , 20
-#8. Call the mull method with 10 , 20
+#7.Take an object from the class
+#8. Call the sum method with 10 , 20
+#9. Call the mull method with 10 , 20
 class calculator:
     def __init__(self):
         print ('welcome')
@@ -62,3 +62,15 @@ class calculator:
 s=calculator()
 s.sum(10,20)
 s.mull(10,20)
+
+#10.Explain in few words why we call the self in methods
+'''
+when we call the self we define it
+'''
+
+#11. What we mean with OOP 4 Pillars
+'''
+it help us to write clean Object-Oriented Code
+'''
+
+
