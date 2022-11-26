@@ -50,7 +50,6 @@ class SciCalc(calc):
     def power(self,x,y):
         return(x**y)
 
-
 s=calc()
 s.sum(2,4)
 s.mull(3,5)
@@ -60,6 +59,20 @@ s=SciCalc()
 s.power(2,3)
 print(s.power(2,3))
 
+#8.call the 3 methods again from the SciCalc object
 
+s=SciCalc()
+s.power(2,3)
+print(s.power(2,3))
+print(s.sum(2,4))
+print(s.mull(3,4))
 
+#9. Now you should see the same result as before
+'''
+yes it is the saame result
+'''
 
+#10.Explain in few words what happened after inheriting
+'''
+Inheritance enables us to define a class that takes all the functionality from a parent class and allows us to add more
+'''
