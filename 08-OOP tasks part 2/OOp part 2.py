@@ -11,11 +11,14 @@ class SciCalc():
 #4. The power return x power y
 class SciCalc():
     def sum(self,x,y):
-        return(x+y)
+        result(x+y)
+        return(result)
     def mull(self,x,y):
         return(x*y)
+        
     def power(self,x,y):
         return(x**y)
+        
 #5. Take an object from the class and call the 3 methodswith any numbers
 '''
 class SciCalc():
@@ -42,6 +45,7 @@ yes we can
 class calc:
     def sum(self,x,y):
         return(x+y)
+        
     def mull(self,x,y):
         return(x*y)
 
