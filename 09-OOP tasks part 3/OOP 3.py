@@ -26,3 +26,27 @@ it is child class the class that inherits from another class, also called derive
 instance of a class is also called an object. The call will comprise both data members and methods and will be accessed by an object of that class.
 '''
 #2.Explain in few words what we mean with the word polymorphism , give an example
+'''
+
+'''
+#3.Can we inherit from more than one class in python
+'''
+yes we can
+'''
+
+#4.f yes how multiple inheritance works
+'''
+lass Base:
+    pass
+
+class Derived1(Base):
+    pass
+
+class Derived2(Derived1):
+    pass
+-----------------------------
+Base=Base
+Derived1=Derived1 and Base
+Derived2=Derived1, Base and Derived2
+
+'''
